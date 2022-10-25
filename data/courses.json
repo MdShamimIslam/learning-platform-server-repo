@@ -1,0 +1,64 @@
+[
+    {
+        "category_id": "1",
+        "title":"Introduction to HTML",
+        "img":"https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw",
+        "details":"HTML is the language of the World Wide Web. If you want to put any amount of content on the Internet HTML is the first thing you want to learn. In this course I’m going to teach you the absolute basics of HTML and how to create a website from scratch. I don’t assume any prior programming or Internet experience, so this is the ultimate beginners course."
+    },
+   
+    {
+        "category_id": "2",
+        "title":"Learn to Code With Ruby",
+        "img":"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190902124355/ruby-programming-language.png",
+        "details":"Ruby is a computer programming language developed in 1995 by Yukihiro Matsumoto. He wanted to create a flexible, object-oriented language that programmers would enjoy using. They enjoyed it enough that Ruby became one of the most popular languages for developing web applications.Ruby is mainly used to build web applications and is useful for other programming projects. It is widely used for building servers and data processing, web scraping, and crawling."
+    },
+
+    {
+        "category_id": "3",
+        "title":"Get Started With Django",
+        "img":"https://images.ctfassets.net/23aumh6u8s0i/6ubUHRD1qfolOVHxiBfjZ7/4e704f48dc5b0104d0c380fec1fe9b9e/django",
+        "details":"Django is a high-level Python web framework that enables rapid development of secure and maintainable websites. Built by experienced developers, Django takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It is free and open source, has a thriving and active community, great documentation, and many options for free and paid-for support."
+    },
+
+    {
+        "category_id": "4",
+        "title":"JavaScript Fundamentals",
+        "img":"https://di3xp7dfi3cq.cloudfront.net/media/magefan_blog/Free_Courses_to_learn_JavaScript.jpg",
+        "details":"JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area."
+    },
+
+    {
+        "category_id": "5",
+        "title":"iPhone App Development With Swift",
+        "img":"https://cdn-media-1.freecodecamp.org/images/1*S4__g3knEbuuE6qHyWIbNQ.png",
+        "details":"The Swift programming language is a general-purpose, open-source programming language designed by Apple. The language is influenced by Python, making it fast and intuitive. Swift is mainly used for native iOS and macOS development. Many popular apps including LinkedIn, Lyft, and WordPress are written in Swift. If you’re interested in iOS development, Swift is a great language to learn. Let’s learn more about this popular language!"
+    },
+
+    {
+        "category_id": "6",
+        "title":"Learn Java For Android",
+        "img":"https://softwareengineeringdaily.com/wp-content/uploads/2020/01/Java-Debugging-Tips-881x441.jpg",
+        "details":"Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc."
+    },
+
+    {
+        "category_id": "7",
+        "title":"Skin Beauty - Spa Wordpress",
+        "img":"https://cdn.pixabay.com/photo/2014/12/28/13/20/wordpress-581849__480.jpg",
+        "details":"WordPress was created as a standalone project all the way back in 2003, originating as an offshoot of a previous project called b2/cafelog.WordPress is open-source software, so nowadays it’s made by a huge community of contributors. But if we were to trace WordPress’ origins back to its roots, its original creation was a collaboration between Matt Mullenweg and Mike Little." 
+    },
+    
+    {
+        "category_id": "8",
+        "title":"Node.js From Scratch",
+        "img":"https://tsh.io/wp-content/uploads/2019/07/how-to-find-good-nodejs-node-developers_.png",
+        "details":"Node.js is an amazing platform. It is the V8 JavaScript that Google Chrome uses on the front end running on a server. As a developer who loves JavaScript in the browser, I find it amazing to be able to write web servers and other programs in the very same language. As you’ll see, it’s similar to JavaScript in the browser; however, it isn’t all the same. There are many new patterns and features that we’ll cover in this course."
+    },
+    
+    {
+        "category_id": "9",
+        "title":"Introduction to Python",
+        "img":"https://www.filepicker.io/api/file/BFMMlbcQvml9HSqXcvNp",
+        "details":"Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed."
+    }
+]

@@ -1,0 +1,48 @@
+[
+    
+    {
+        "id": "01",
+        "name": "Html"
+    },
+
+    {
+      "id": "02",
+      "name": "Ruby"
+    },
+
+    {
+      "id": "03",
+      "name": "Django"
+    },
+
+    {
+      "id": "04",
+      "name": "JavaScript"
+    },
+
+    {
+      "id": "05",
+      "name": "Swift"
+    },
+
+    {
+        "id": "06",
+        "name": "Java"
+    },
+
+    {
+      "id": "07",
+      "name": "Wordpress"
+    },
+    
+    {
+      "id": "08",
+      "name": "Node,js"
+    },
+    
+    {
+        "id": "09",
+        "name": "Python"
+    }
+    
+  ]
