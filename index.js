@@ -24,11 +24,6 @@ app.get('/course', (req,res)=>{
     res.send(courses);
 })
 
-// app.get('/course/:id', (req,res)=>{
-//     const id = req.params.id;
-//     const course = courses.(cr => cr.id == id);
-//     res.send(course);
-// })
 
 app.listen(port, ()=>{
     console.log('Server side is running on port:',port);

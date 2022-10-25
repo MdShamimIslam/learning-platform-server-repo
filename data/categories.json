@@ -1,5 +1,4 @@
 [
-    
     {
         "id": "01",
         "name": "Html"
@@ -34,7 +33,7 @@
       "id": "07",
       "name": "Wordpress"
     },
-    
+
     {
       "id": "08",
       "name": "Node,js"
