@@ -11,19 +11,27 @@ app.get('/', (req,res)=>{
     res.send('Server side is running');
 })
 
+
 app.get('/categories', (req,res)=>{
     res.send(categories);
 })
 
 
-app.get('/category/:id', (req,res)=>{
-    const id = req.params.id;
-    const category = categories.find(c => c.id === id);
-    res.send(category);
-})
-
 app.get('/courses', (req,res)=>{
     res.send(courses);
+})
+
+app.get('/category/:id', (req,res)=>{
+    const id = req.params.id;
+    const category_course = courses.filter( c => c.category_id === id);
+    res.send(category_course);
+    
+})
+
+app.get('/courses/:id', (req,res)=>{
+    const id = req.params.id;
+   const selected_courses = courses.find( c => c._id === id);
+   res.send(selected_courses);
 })
 
 
